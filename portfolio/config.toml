@@ -1,4 +1,4 @@
-# baseURL = "enter redirect link here"
+baseURL = "https://andy-and-darwin-coffee.netlify.app/"
 #create a public folder before publishing to Netlify? & remove example site directory.
 languageCode = "en-us"
 title = "Mohammed Abdulkadir"
