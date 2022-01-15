@@ -1,4 +1,4 @@
-baseURL = https://stupefied-mcclintock-7ec155.netlify.app/
+#baseURL =
 #create a public folder before publishing to Netlify? & remove example site directory.
 languageCode = "en-us"
 title = "Mohammed Abdulkadir"
