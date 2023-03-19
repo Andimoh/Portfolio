@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>mohammed-abdulkadir</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 09:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Mar 2023 11:19:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security Tools</title>
+      <link>/posts/security_tools/</link>
+      <pubDate>Sat, 18 Mar 2023 11:19:00 +0000</pubDate>
+      
+      <guid>/posts/security_tools/</guid>
+      <description>Tools I have experience with but not limited to:
+Microsoft: Azure, o365, Exchange Admin, Purview, Defender for Cloud App Trend Micro Suite: Vision one, Tipping Point IPS, Deep Discovery suite, Email Security, Apex One, Cloud App CyberArk: privilege Access Manager (PAM), Vendor remote access (Alero), Endpoint privilege Manager (EPM) Git Wireshark Zscaler BurpSuite SIEM: IBM Qradar, Forescout Cysiv vulnerability assessment &amp;amp; Threat intelligence: Rapid 7 IVM, Intsights Threat command
+OS: MacOS, Windows, Linux</description>
+    </item>
+    
     <item>
       <title>Security stuff</title>
       <link>/posts/cybersecurity/</link>
@@ -45,8 +56,7 @@
       <guid>/resume/</guid>
       <description>Resume Mohammed Abdulkadir!
 Background
-I work in a small security team involved in cloud and network security, IOT, incident response and detections. We actively monitor every detection and malicious activity in our network and insider threat including EDR, email security, IDS/IPS and SIEM among others.
-I have some experience with web development, worked as a freelancer to upgrade/build websites for small businesses using web technologies. I have a Bachelors degree in computer science and a Master’s degree in Cybersecurity.</description>
+I am an experienced Security specialist, with a Bachelor&amp;rsquo;s degree in Computer Science and a Master&amp;rsquo;s degree in Cybersecurity. My work involves proactive monitoring for malicious activity, incident response, and detection including insider threats. I have some experience with web development and using web technologies to upgrade or build websites for small businesses. As someone born in Nigeria, I have developed strong cultural fluency living and working in Canada, the United States, and beyond.</description>
     </item>
     
   </channel>
