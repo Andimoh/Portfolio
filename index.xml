@@ -15,7 +15,14 @@
       
       <guid>/posts/security_tools/</guid>
       <description>Tools I have experience with but not limited to:
-Microsoft: Azure, o365, Exchange Admin, Purview, Defender for Cloud App Trend Micro Suite: Vision one, Tipping Point IPS, Deep Discovery suite, Email Security, Apex One, Cloud App CyberArk: privilege Access Manager (PAM), Vendor remote access (Alero), Endpoint privilege Manager (EPM) Git Wireshark Zscaler BurpSuite SIEM: IBM Qradar, Forescout Cysiv vulnerability assessment &amp;amp; Threat intelligence: Rapid 7 IVM, Intsights Threat command
+Microsoft: Azure, o365, Exchange Admin, Purview, Defender for Cloud App.
+Trend Micro Suite: Vision one, Tipping Point IPS, Deep Discovery suite, Email Security, Apex One, Cloud App.
+CyberArk: privilege Access Manager (PAM), Vendor remote access (Alero), Endpoint privilege Manager (EPM).
+Git
+Wireshark
+Zscaler
+BurpSuite SIEM: IBM Qradar, Forescout Cysiv
+vulnerability assessment &amp;amp; Threat intelligence: Rapid 7 IVM, Intsights Threat command
 OS: MacOS, Windows, Linux</description>
     </item>
     
