@@ -7,23 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>mohammed-abdulkadir</copyright>
-    <lastBuildDate>Sat, 18 Mar 2023 11:19:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2024 11:19:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security Tools</title>
       <link>/posts/security_tools/</link>
-      <pubDate>Sat, 18 Mar 2023 11:19:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2024 11:19:00 +0000</pubDate>
       
       <guid>/posts/security_tools/</guid>
-      <description>Tools I have experience with but not limited to:
-Microsoft: Azure, o365, Exchange Admin, Purview, Defender for Cloud App.
-Trend Micro Suite: Vision one, Tipping Point IPS, Deep Discovery suite, Email Security, Apex One, Cloud App.
-CyberArk: privilege Access Manager (PAM), Vendor remote access (Alero), Endpoint privilege Manager (EPM).
-Git
-Wireshark
-Zscaler
-BurpSuite SIEM: IBM Qradar, Forescout Cysiv
-vulnerability assessment &amp;amp; Threat intelligence: Rapid 7 IVM, Intsights Threat command
-OS: MacOS, Windows, Linux</description>
+      <description>Tools and technologies I have experience with but not limited to:
+  Microsoft: Azure, o365, Exchange Admin, Purview, Defender for Cloud App.
+  Trend Micro Suite: Vision one, Tipping Point IPS, Deep Discovery suite, Email Security, Apex One, Cloud App, Deep Security.
+  CyberArk: privilege Access Manager (PAM), Vendor remote access (Alero), Endpoint privilege Manager (EPM).
+  Git
+  Wireshark
+  Zscaler
+  BurpSuite</description>
     </item>
     
     <item>
@@ -63,7 +61,7 @@ OS: MacOS, Windows, Linux</description>
       <guid>/resume/</guid>
       <description>Resume Mohammed Abdulkadir!
 Background
-I am an experienced Security specialist, with a Bachelor&amp;rsquo;s degree in Computer Science and a Master&amp;rsquo;s degree in Cybersecurity. My work involves architecture, implementing and testing new security tools features, proactive monitoring for malicious activity, detection and incident response including insider threats. I have some experience with web development and using web technologies to upgrade or build websites for small businesses. As someone born in Nigeria, I have developed strong cultural fluency living and working in Canada, the United States, and beyond.</description>
+I am an experienced security specialist with a Bachelor&amp;rsquo;s degree in Computer Science and a Master&amp;rsquo;s degree in Cybersecurity. My work involves architecting, implementing, and testing new security tool features, as well as proactive monitoring for malicious activity, detection, and incident response, including addressing insider threats. I also have experience in web development, using web technologies to upgrade or build websites for small businesses. Born in Nigeria, I have developed strong cultural fluency through living and working in Canada and the United States.</description>
     </item>
     
   </channel>
